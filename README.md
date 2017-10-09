@@ -1,2 +1,2 @@
 # RIP-Advertisements
-Attempt to find an alternative to annoying website advertisements
+An attempt to find an alternative to annoying website advertisements
